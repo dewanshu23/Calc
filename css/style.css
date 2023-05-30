@@ -33,6 +33,7 @@
     width: 190px;
     padding: 10px;
     display: inline-block;
+    
 }
 .history{
     border: 2px solid black;
@@ -42,6 +43,7 @@
     text-align: right;
     overflow: auto;
     display: inline-block;
+    background-color: aqua;
 }
 .hist-btn{
     height: 30px;
