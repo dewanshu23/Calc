@@ -1,0 +1,62 @@
+.inputBox{
+    height: 30px;
+    width: 180px;
+    margin-bottom: 7px;
+    text-align: right;
+    font-size: x-large;
+    border-top: none;
+}
+
+.inputEq{
+    height: 15px;
+    width: 180px;
+    border-bottom: none;
+    text-align: right;
+}
+.inputEq:focus{
+    outline: none;
+}
+.inputBox:focus{
+    outline: none;
+}
+
+.input-btn{
+    height: 30px;
+    width: 40px;
+    padding: 10px;
+    margin: 2px;
+}
+
+.container{
+    border: 2px solid black;
+    height: 235px;
+    width: 190px;
+    padding: 10px;
+    display: inline-block;
+}
+.history{
+    border: 2px solid black;
+    height: 255px;
+    width: 190px;
+    float:right;
+    text-align: right;
+    overflow: auto;
+    display: inline-block;
+}
+.hist-btn{
+    height: 30px;
+    width: 40px;
+    padding: 10px;
+    margin: 2px;
+    
+}
+
+.calc{
+    float: left;
+    text-align: center;
+}
+
+
+
+
+
